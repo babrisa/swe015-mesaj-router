@@ -59,8 +59,6 @@ Eğitim Mac'te (MPS) her çalıştırmada birebir aynı sonucu vermez. BERTurk a
 - Kapsam dışı için ayrı sınıf yok, yalnızca `config.yaml` içindeki sabit güven eşiği (0,8) var.
 - Niyet ve birim eşlemesi `config.yaml` içinde.
 
-Mimari diyagram: [docs/architecture.md](docs/architecture.md)
-
 ## Veri
 
 - Kapsam içi mesajlar bu proje için yazıldı (AI taslağı). Gerçek öğrenci mesajı, numarası, adı veya e-postası yok. Numaralar sahtedir.
