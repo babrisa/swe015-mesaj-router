@@ -1,4 +1,4 @@
-# Öğrenci İşleri Yönlendirici
+# Mesaj Yönlendirici
 
 İstinye Üniversitesi'ne gelen Türkçe öğrenci mesajlarını doğru birime yönlendirir. Mesajı normalize eder, öğrenci numarasını bulur, niyeti güven skoruyla tahmin eder ve talep kartı yazar. Eşik altındaki mesajlar personele gider, selamlaşmalar kuralla cevaplanır. Arayüz dört modeli yan yana gösterir.
 

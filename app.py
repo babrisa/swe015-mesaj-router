@@ -17,8 +17,8 @@ def yonlendir(mesaj, esik):
     return s["kart"], s["birim"], s["niyet"], s["guven"], s["metin"], s["tablo"]
 
 
-with gr.Blocks(title="Öğrenci İşleri Yönlendirici") as demo:
-    gr.Markdown("# Öğrenci İşleri Yönlendirici\nİstinye Üniversitesi · Üretim modeli: **Damıtılmış BERTurk, INT8 (CPU)**")
+with gr.Blocks(title="Mesaj Yönlendirici") as demo:
+    gr.Markdown("# Mesaj Yönlendirici\nİstinye Üniversitesi · Üretim modeli: **Damıtılmış BERTurk, INT8 (CPU)**")
     mesaj = gr.Textbox(label="Öğrenci mesajı", lines=2)
     esik = gr.Slider(0, 1, value=CONFIG["threshold"], step=0.01, label="Güven eşiği")
     buton = gr.Button("Yönlendir", variant="primary")

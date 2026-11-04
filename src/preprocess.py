@@ -6,7 +6,7 @@ NUMARA = re.compile(r"(?<!\d)(1[89]|2[0-6])0\d{6,7}(?!\d)")
 TERIMLER = ["transkript", "diploma", "mezuniyet", "öğrenci", "belgesi", "harç", "kayıt", "dondurma",
             "yatay", "geçiş", "burs", "staj", "şifre", "ödeme", "ders", "seçimi", "ois"]
 SELAM = {
-    "merhaba": "Merhaba! Öğrenci işleriyle ilgili nasıl yardımcı olabilirim?",
+    "merhaba": "Merhaba! Size nasıl yardımcı olabilirim?",
     "selam": "Selam! Size nasıl yardımcı olabilirim?",
     "teşekkürler": "Rica ederim! Başka bir konuda yardımcı olabilir miyim?",
     "nasılsın": "İyiyim, teşekkürler. Size nasıl yardımcı olabilirim?",
