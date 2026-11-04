@@ -115,8 +115,8 @@ def bert_egit(metinler, etiketler, klasor, katman=12, tur=8, ogretmen=None):
 
 def quantize_et(model):
     """Linear katman ağırlıklarını FP32'den INT8'e çevirir (D). Etkinleştirmeler çalışırken ölçeklenir."""
-    # Intel/AMD işlemcide fbgemm, Mac ve ARM işlemcide qnnpack kullanılır.
-    torch.backends.quantized.engine = "fbgemm" if "fbgemm" in torch.backends.quantized.supported_engines else "qnnpack"
+    # Motor işletim sistemine göre değişir, bu yüzden desteklenen listeden seçilir.
+    torch.backends.quantized.engine = torch.backends.quantized.supported_engines[-1]
     return torch.ao.quantization.quantize_dynamic(model, {nn.Linear}, dtype=torch.qint8)
 
 
