@@ -1,0 +1,14 @@
+# Birimi degistirmek icin sadece bu dosyayi duzenle.
+model_name: dbmdz/bert-base-turkish-cased
+threshold: 0.8        # bu guvenin altindaki mesajlar personele gider
+intents:
+  ogrenci-belgesi:      {birim: ogrenci-isleri,       ad: Öğrenci belgesi}
+  transkript:           {birim: ogrenci-isleri,       ad: Transkript}
+  diploma-mezuniyet:    {birim: ogrenci-isleri,       ad: Diploma ve mezuniyet}
+  ders-secimi:          {birim: ogrenci-isleri,       ad: Ders seçimi}
+  kayit-dondurma:       {birim: fakulte-sekreterligi, ad: Kayıt dondurma}
+  yatay-gecis:          {birim: ogrenci-isleri,       ad: Yatay geçiş}
+  harc-odeme:           {birim: mali-isler,           ad: Harç ödeme}
+  sifre-giris-sorunu:   {birim: bilgi-teknolojileri,  ad: Şifre ve giriş sorunu}
+  zorunlu-staj-basvuru: {birim: kariyer-merkezi,      ad: Zorunlu staj başvurusu}
+  burs:                 {birim: sks,                  ad: Burs}

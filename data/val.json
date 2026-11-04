@@ -1,0 +1,652 @@
+[
+{
+"id": "val-0001",
+"text": "kredi başvurusu için bankaya öğrenci belgesi götürmem gerekiyor",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "val-0002",
+"text": "öğrenci belgesi sistemden indirilebiliyor mu",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "val-0003",
+"text": "hocam bana bir öğrenci belgesi hazırlar mısınız",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "val-0004",
+"text": "konsolosluk öğrenci belgesi istiyor, 2208019159",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "val-0005",
+"text": "öğrenci belgem için kaç gün beklerim",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "val-0006",
+"text": "okuduğumu kanıtlayan bir yazı lazım",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "val-0007",
+"text": "kaymakamlığa vermek için öğrenci belgesi istiyorum",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "val-0008",
+"text": "belge almak için öğrenci işlerine gelmem şart mı",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "val-0009",
+"text": "başvurduğum burs programı transkript istiyor",
+"intent": "transkript"
+},
+{
+"id": "val-0010",
+"text": "tüm notlarımı gösteren resmi belge nasıl alınır",
+"intent": "transkript"
+},
+{
+"id": "val-0011",
+"text": "ingilizce not dökümü için ne yapmalıyım",
+"intent": "transkript"
+},
+{
+"id": "val-0012",
+"text": "transkriptte geçen dönem notlarım yok",
+"intent": "transkript"
+},
+{
+"id": "val-0013",
+"text": "ıslak imzalı transkript için kaç gün gerekir",
+"intent": "transkript"
+},
+{
+"id": "val-0014",
+"text": "2409012192 numaralı öğrenciyim, transkript rica ediyorum",
+"intent": "transkript"
+},
+{
+"id": "val-0015",
+"text": "transkript masrafı var mı",
+"intent": "transkript"
+},
+{
+"id": "val-0016",
+"text": "yurt dışı başvurum için not dökümü gönderilmeli",
+"intent": "transkript"
+},
+{
+"id": "val-0017",
+"text": "bu dönem mezun olabiliyor muyum kontrol eder misiniz",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "val-0018",
+"text": "diplomamı annem alabilir mi",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "val-0019",
+"text": "geçici mezuniyet belgem kayboldu",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "val-0020",
+"text": "mezuniyet törenine kaç kişi gelebilir",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "val-0021",
+"text": "diplomam hazır mı, numaram 2601011229",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "val-0022",
+"text": "ilişik kesme formunu kim imzalıyor",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "val-0023",
+"text": "diploma üzerindeki doğum tarihim hatalı",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "val-0024",
+"text": "kaç kredi daha alırsam mezun olurum",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "val-0025",
+"text": "ders seçiminde sepetime ders eklenmiyor",
+"intent": "ders-secimi"
+},
+{
+"id": "val-0026",
+"text": "danışman hocam onay vermeden kayıt tamamlanmıyor",
+"intent": "ders-secimi"
+},
+{
+"id": "val-0027",
+"text": "kontenjanı dolan seçmeli için ne yapılabilir",
+"intent": "ders-secimi"
+},
+{
+"id": "val-0028",
+"text": "dersimi bırakırsam krediye etkisi olur mu",
+"intent": "ders-secimi"
+},
+{
+"id": "val-0029",
+"text": "ekle bırak haftası hangi tarihlerde",
+"intent": "ders-secimi"
+},
+{
+"id": "val-0030",
+"text": "üstten ders alma şartım var mı",
+"intent": "ders-secimi"
+},
+{
+"id": "val-0031",
+"text": "iki dersin saati çakışıyor, 1808018305",
+"intent": "ders-secimi"
+},
+{
+"id": "val-0032",
+"text": "yaz okuluna ders kaydı nasıl yapılır",
+"intent": "ders-secimi"
+},
+{
+"id": "val-0033",
+"text": "ameliyat olacağım için bu dönem kaydımı dondurmam lazım",
+"intent": "kayit-dondurma"
+},
+{
+"id": "val-0034",
+"text": "dondurma dilekçesini hangi ofise teslim edeceğim",
+"intent": "kayit-dondurma"
+},
+{
+"id": "val-0035",
+"text": "işe başladım, bir süre okula ara vereceğim",
+"intent": "kayit-dondurma"
+},
+{
+"id": "val-0036",
+"text": "kayıt dondurduktan sonra geri dönüş nasıl oluyor",
+"intent": "kayit-dondurma"
+},
+{
+"id": "val-0037",
+"text": "kayıt dondurma için son gün hangisi, 2508017493",
+"intent": "kayit-dondurma"
+},
+{
+"id": "val-0038",
+"text": "askere gideceğim, kaydım ne olacak",
+"intent": "kayit-dondurma"
+},
+{
+"id": "val-0039",
+"text": "yönetim kurulundan izin kararı çıktı mı",
+"intent": "kayit-dondurma"
+},
+{
+"id": "val-0040",
+"text": "doğum nedeniyle bir dönem izin istiyorum",
+"intent": "kayit-dondurma"
+},
+{
+"id": "val-0041",
+"text": "başka üniversitedeyim, sizin hukuka geçiş şartım var mı",
+"intent": "yatay-gecis"
+},
+{
+"id": "val-0042",
+"text": "ösym puanım tutuyor, geçiş yapabilir miyim",
+"intent": "yatay-gecis"
+},
+{
+"id": "val-0043",
+"text": "yatay geçiş ilanı ne zaman yayınlanır",
+"intent": "yatay-gecis"
+},
+{
+"id": "val-0044",
+"text": "aynı fakültede başka programa geçmek istiyorum",
+"intent": "yatay-gecis"
+},
+{
+"id": "val-0045",
+"text": "yatay geçiş evraklarını nereye teslim edeceğim",
+"intent": "yatay-gecis"
+},
+{
+"id": "val-0046",
+"text": "geçiş başvurum değerlendirildi mi, 2301019046",
+"intent": "yatay-gecis"
+},
+{
+"id": "val-0047",
+"text": "ortalamam yetersiz, ek madde ile geçebilir miyim",
+"intent": "yatay-gecis"
+},
+{
+"id": "val-0048",
+"text": "geçişten sonra derslerim sayılır mı",
+"intent": "yatay-gecis"
+},
+{
+"id": "val-0049",
+"text": "öğrenim ücretimi iki taksite bölebilir miyim",
+"intent": "harc-odeme"
+},
+{
+"id": "val-0050",
+"text": "dekontu yükledim ama borcum silinmedi",
+"intent": "harc-odeme"
+},
+{
+"id": "val-0051",
+"text": "ödeme yapamadığım için sisteme kayıt olamıyorum",
+"intent": "harc-odeme"
+},
+{
+"id": "val-0052",
+"text": "harç tutarımı nereden görebilirim",
+"intent": "harc-odeme"
+},
+{
+"id": "val-0053",
+"text": "gecikmiş borcum için faiz ne kadar, 2409014203",
+"intent": "harc-odeme"
+},
+{
+"id": "val-0054",
+"text": "indirim hakkım ücrete işlenmemiş",
+"intent": "harc-odeme"
+},
+{
+"id": "val-0055",
+"text": "fazla çekilen tutarı geri istiyorum",
+"intent": "harc-odeme"
+},
+{
+"id": "val-0056",
+"text": "kart limitim yetmiyor, nasıl öderim",
+"intent": "harc-odeme"
+},
+{
+"id": "val-0057",
+"text": "şifremi yeniledim ama hâlâ giremiyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "val-0058",
+"text": "öğrenci maili şifre istiyor, hatırlamıyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "val-0059",
+"text": "doğrulama sms'i gelmiyor, 2508012561",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "val-0060",
+"text": "yurtta wifi bağlanmıyor kullanıcı adı hatası veriyor",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "val-0061",
+"text": "moodle'a giriş yapamıyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "val-0062",
+"text": "hesabım kilitli diyor, ne yapmalıyım",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "val-0063",
+"text": "bilgi sistemi girişte sürekli başa dönüyor",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "val-0064",
+"text": "şifre değiştirme sayfası hata veriyor",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "val-0065",
+"text": "staj yerim belli oldu, sigorta için ne yapmalıyım",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "val-0066",
+"text": "staj evraklarını kime imzalatacağım",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "val-0067",
+"text": "staj defteri teslim tarihi ne zaman",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "val-0068",
+"text": "stajımı temmuzda yapmak istiyorum, başvurum, 2208012293",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "val-0069",
+"text": "staj komisyonu hangi kurumları kabul ediyor",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "val-0070",
+"text": "stajımı uzaktan yapabilir miyim",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "val-0071",
+"text": "staj yerim kapandı, başka yer bulabilir miyim",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "val-0072",
+"text": "zorunlu stajdan muaf olabilir miyim",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "val-0073",
+"text": "bursumun devamı için ortalama şartı nedir",
+"intent": "burs"
+},
+{
+"id": "val-0074",
+"text": "yemek desteği başvuruları açıldı mı",
+"intent": "burs"
+},
+{
+"id": "val-0075",
+"text": "başarı bursum bu dönem yatmadı",
+"intent": "burs"
+},
+{
+"id": "val-0076",
+"text": "destek başvurusu için gelir belgesi gerekli mi",
+"intent": "burs"
+},
+{
+"id": "val-0077",
+"text": "ihtiyaç bursu sonucu, 2108012461",
+"intent": "burs"
+},
+{
+"id": "val-0078",
+"text": "kampüste yarı zamanlı çalışmak istiyorum",
+"intent": "burs"
+},
+{
+"id": "val-0079",
+"text": "burs görüşmesi hangi gün yapılacak",
+"intent": "burs"
+},
+{
+"id": "val-0080",
+"text": "vakıf bursu için son tarih nedir",
+"intent": "burs"
+},
+{
+"id": "val-0081",
+"text": "yemekhanede bugün ne var",
+"intent": "unknown"
+},
+{
+"id": "val-0082",
+"text": "kütüphane kaça kadar açık",
+"intent": "unknown"
+},
+{
+"id": "val-0083",
+"text": "kampüs servisi kaçta kalkıyor",
+"intent": "unknown"
+},
+{
+"id": "val-0084",
+"text": "kulüplere nasıl üye olunur",
+"intent": "unknown"
+},
+{
+"id": "val-0085",
+"text": "hocanın ofis saati ne zaman",
+"intent": "unknown"
+},
+{
+"id": "val-0086",
+"text": "bana benim facebook'umdan yeni yorumlar bul",
+"intent": "unknown"
+},
+{
+"id": "val-0087",
+"text": "bana avrupa siyasetinde neler olduğunu anlat bana",
+"intent": "unknown"
+},
+{
+"id": "val-0088",
+"text": "listeyi bul ve elmayı kaldır",
+"intent": "unknown"
+},
+{
+"id": "val-0089",
+"text": "bugün bir ara üstüme bir kat daha giymem gerekecek mi",
+"intent": "unknown"
+},
+{
+"id": "val-0090",
+"text": "xyyi tanımla",
+"intent": "unknown"
+},
+{
+"id": "val-0091",
+"text": "takvimde şu kişilerle bu etkinliği oluştur",
+"intent": "unknown"
+},
+{
+"id": "val-0092",
+"text": "olly şu anda türkiyede saat kaç",
+"intent": "unknown"
+},
+{
+"id": "val-0093",
+"text": "aydın istikameti için tren kaçta alkıyor",
+"intent": "unknown"
+},
+{
+"id": "val-0094",
+"text": "yeni sağlayıcı dan herhangi güncel bir şey aldık mı",
+"intent": "unknown"
+},
+{
+"id": "val-0095",
+"text": "ali ağaoğlu kimdir",
+"intent": "unknown"
+},
+{
+"id": "val-0096",
+"text": "tren istasyonu nerede",
+"intent": "unknown"
+},
+{
+"id": "val-0097",
+"text": "şu nesneyi tarif eder misin lütfen",
+"intent": "unknown"
+},
+{
+"id": "val-0098",
+"text": "bana bir erişteli tavuk çorbası tarifi bul",
+"intent": "unknown"
+},
+{
+"id": "val-0099",
+"text": "lütfen her otuz dakikada bir seçimle ilgili bir güncelleme verin",
+"intent": "unknown"
+},
+{
+"id": "val-0100",
+"text": "biraz modern rock dinlemek istiyorum",
+"intent": "unknown"
+},
+{
+"id": "val-0101",
+"text": "şikayeti tweet at",
+"intent": "unknown"
+},
+{
+"id": "val-0102",
+"text": "bugün programımda ne var",
+"intent": "unknown"
+},
+{
+"id": "val-0103",
+"text": "bu insanlarla takvim etkinliği",
+"intent": "unknown"
+},
+{
+"id": "val-0104",
+"text": "bu haftanın hava raporunu bak",
+"intent": "unknown"
+},
+{
+"id": "val-0105",
+"text": "bu radyo kanalını dinlemek istiyorum",
+"intent": "unknown"
+},
+{
+"id": "val-0106",
+"text": "bana en iyi pişirme fikirlerini ver",
+"intent": "unknown"
+},
+{
+"id": "val-0107",
+"text": "bu hafta sonu ne oluyor",
+"intent": "unknown"
+},
+{
+"id": "val-0108",
+"text": "hadi bir taksi tutalım",
+"intent": "unknown"
+},
+{
+"id": "val-0109",
+"text": "olly haftaya randevum var mı",
+"intent": "unknown"
+},
+{
+"id": "val-0110",
+"text": "yaklaşan toplantıyı listele",
+"intent": "unknown"
+},
+{
+"id": "val-0111",
+"text": "herkese cevap ver",
+"intent": "unknown"
+},
+{
+"id": "val-0112",
+"text": "tavuklu güveç tarifi bul",
+"intent": "unknown"
+},
+{
+"id": "val-0113",
+"text": "yarın öğleden sonraki program ne",
+"intent": "unknown"
+},
+{
+"id": "val-0114",
+"text": "mart ayında takvimimdeki etkinliklerin listesi nelerdir",
+"intent": "unknown"
+},
+{
+"id": "val-0115",
+"text": "dışarısı nasıl",
+"intent": "unknown"
+},
+{
+"id": "val-0116",
+"text": "aksi söyleyene kadar sessize ayarla",
+"intent": "unknown"
+},
+{
+"id": "val-0117",
+"text": "orduda şu anda trafik durumu nasıl",
+"intent": "unknown"
+},
+{
+"id": "val-0118",
+"text": "olly doların değeri brezilyada daha mı fazla yoksa daha mı az",
+"intent": "unknown"
+},
+{
+"id": "val-0119",
+"text": "şoka tweet at ve müşteri hizmetlerinin çok kötü olduğunu söyle",
+"intent": "unknown"
+},
+{
+"id": "val-0120",
+"text": "bugün alışveriş yaparken şort giyebilir miyim",
+"intent": "unknown"
+},
+{
+"id": "val-0121",
+"text": "bana cevapsız çınlama ile ilgili bilgileri ver",
+"intent": "unknown"
+},
+{
+"id": "val-0122",
+"text": "haftanın hava tahmini nasıl",
+"intent": "unknown"
+},
+{
+"id": "val-0123",
+"text": "beş saat içinde beni uyar",
+"intent": "unknown"
+},
+{
+"id": "val-0124",
+"text": "bir litrede kaç fincan var",
+"intent": "unknown"
+},
+{
+"id": "val-0125",
+"text": "istanbulda ne kadar insan yaşıyor",
+"intent": "unknown"
+},
+{
+"id": "val-0126",
+"text": "listemi doldur",
+"intent": "unknown"
+},
+{
+"id": "val-0127",
+"text": "youtube a git ve en güzel dans şarkıları kolleksiyonunu çal",
+"intent": "unknown"
+},
+{
+"id": "val-0128",
+"text": "bu mesajı aile grubuna gönder a ile başlar",
+"intent": "unknown"
+},
+{
+"id": "val-0129",
+"text": "bu içeriği e-posta aracılığıyla gönder",
+"intent": "unknown"
+},
+{
+"id": "val-0130",
+"text": "bana bir haftalık ankara hava durumunu göster",
+"intent": "unknown"
+}
+]

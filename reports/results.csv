@@ -1,0 +1,5 @@
+model,hassasiyet,accuracy,oos_recall,esik,boyut_mb,gecikme_ms,calistirma
+tfidf,FP64,0.7064,1.0000,0.8,0.7,0.19,200
+fasttext_ffn,FP32,0.6055,0.8571,0.8,9.8,0.06,200
+berturk,FP32,0.8716,0.9388,0.8,422.0,12.42,200
+ogrenci_int8,INT8,0.8716,0.9082,0.8,136.6,12.37,200

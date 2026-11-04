@@ -1,0 +1,1757 @@
+[
+{
+"id": "train-0001",
+"text": "öğrenci belgesi istiyorum",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0002",
+"text": "öğrenci belgemi nasıl alabilirim",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0003",
+"text": "askerlik için öğrenci belgesi lazım",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0004",
+"text": "e-devletten öğrenci belgesi alamıyorum",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0005",
+"text": "ıslak imzalı öğrenci belgesi talep ediyorum",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0006",
+"text": "ingilizce öğrenci belgesi gerekiyor",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0007",
+"text": "öğrenci belgesi almak için başvuru yapmak istiyorum, numaram 2209100711",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0008",
+"text": "bankaya vermek üzere öğrencilik belgesi gerekli",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0009",
+"text": "öğrenci olduğumu gösteren belge nereden alınır",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0010",
+"text": "vize başvurusu için öğrenci belgesi istiyorum",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0011",
+"text": "öğrenci belgem ne zaman hazır olur",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0012",
+"text": "belge talebi: öğrenci belgesi, no 1908019980",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0013",
+"text": "karekodlu öğrenci belgesi nasıl alınır",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0014",
+"text": "yurt başvurusu için öğrenci belgesi gerekiyor",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0015",
+"text": "öğrenci belgesi çıktısı almak istiyorum",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0016",
+"text": "staj yerim öğrenci belgesi istedi",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0017",
+"text": "sgk için öğrenci belgesi lazım",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0018",
+"text": "kaç adet öğrenci belgesi alabilirim",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0019",
+"text": "öğrenci belgem için hangi ofise gideyim",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0020",
+"text": "aktif öğrenci olduğuma dair yazı istiyorum",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0021",
+"text": "pasaport için öğrenci belgesi çıkarmam gerekiyor",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0022",
+"text": "öğrenci belgesini e-posta ile alabilir miyim",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0023",
+"text": "öğrenci belgesi başvuru formu nerede",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0024",
+"text": "başka kuruma vermek için öğrenci belgesi talep ediyorum",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0025",
+"text": "öğrenci belgesi ücretli mi",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0026",
+"text": "yarın için öğrenci belgesi hazırlanabilir mi",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0027",
+"text": "aile yardımı için öğrenci belgesi lazım",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0028",
+"text": "ulaşım kartı için öğrenci belgesi gerekiyor",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0029",
+"text": "öğrenci belgemde bölümüm yanlış yazıyor",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0030",
+"text": "öğrencilik durumumu gösteren belgeyi istiyorum",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0031",
+"text": "transkript istiyorum",
+"intent": "transkript"
+},
+{
+"id": "train-0032",
+"text": "not dökümümü nasıl alırım",
+"intent": "transkript"
+},
+{
+"id": "train-0033",
+"text": "ingilizce transkript gerekiyor",
+"intent": "transkript"
+},
+{
+"id": "train-0034",
+"text": "transkriptimi e-posta ile alabilir miyim",
+"intent": "transkript"
+},
+{
+"id": "train-0035",
+"text": "yüksek lisans başvurusu için transkript lazım",
+"intent": "transkript"
+},
+{
+"id": "train-0036",
+"text": "transkriptimde bir ders eksik görünüyor",
+"intent": "transkript"
+},
+{
+"id": "train-0037",
+"text": "onaylı not belgesi istiyorum",
+"intent": "transkript"
+},
+{
+"id": "train-0038",
+"text": "transkript ücreti ne kadar",
+"intent": "transkript"
+},
+{
+"id": "train-0039",
+"text": "transkript talebi, numaram 2209102647",
+"intent": "transkript"
+},
+{
+"id": "train-0040",
+"text": "mezun oldum, transkriptimi nereden alabilirim",
+"intent": "transkript"
+},
+{
+"id": "train-0041",
+"text": "imzalı ve mühürlü transkript gerekiyor",
+"intent": "transkript"
+},
+{
+"id": "train-0042",
+"text": "genel not ortalamam transkriptte yanlış",
+"intent": "transkript"
+},
+{
+"id": "train-0043",
+"text": "transkript kaç günde hazır olur",
+"intent": "transkript"
+},
+{
+"id": "train-0044",
+"text": "yabancı üniversiteye transkript göndermek istiyorum",
+"intent": "transkript"
+},
+{
+"id": "train-0045",
+"text": "not döküm belgesi talep ediyorum",
+"intent": "transkript"
+},
+{
+"id": "train-0046",
+"text": "transkriptimi OİS üzerinden görüntüleyemiyorum",
+"intent": "transkript"
+},
+{
+"id": "train-0047",
+"text": "iş başvurusu için transkript lazım",
+"intent": "transkript"
+},
+{
+"id": "train-0048",
+"text": "transkriptimde notum eski gözüküyor",
+"intent": "transkript"
+},
+{
+"id": "train-0049",
+"text": "transkript için dilekçe yazmam gerekiyor mu",
+"intent": "transkript"
+},
+{
+"id": "train-0050",
+"text": "kapalı zarfta transkript alabilir miyim",
+"intent": "transkript"
+},
+{
+"id": "train-0051",
+"text": "dönem notlarımı gösteren belge istiyorum",
+"intent": "transkript"
+},
+{
+"id": "train-0052",
+"text": "aldığım dersleri ve notlarımı gösteren döküm lazım",
+"intent": "transkript"
+},
+{
+"id": "train-0053",
+"text": "transkriptimi posta ile gönderir misiniz",
+"intent": "transkript"
+},
+{
+"id": "train-0054",
+"text": "iki adet transkript talep ediyorum",
+"intent": "transkript"
+},
+{
+"id": "train-0055",
+"text": "transkriptteki adım hatalı yazılmış",
+"intent": "transkript"
+},
+{
+"id": "train-0056",
+"text": "türkçe transkript nasıl alınır",
+"intent": "transkript"
+},
+{
+"id": "train-0057",
+"text": "erasmus başvurusu için transkript gerekiyor",
+"intent": "transkript"
+},
+{
+"id": "train-0058",
+"text": "transkriptimde kredi toplamı yanlış",
+"intent": "transkript"
+},
+{
+"id": "train-0059",
+"text": "akademik not dökümü almak istiyorum",
+"intent": "transkript"
+},
+{
+"id": "train-0060",
+"text": "transkriptimi ne zaman alabilirim",
+"intent": "transkript"
+},
+{
+"id": "train-0061",
+"text": "diplomamı ne zaman alabilirim",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0062",
+"text": "mezuniyet için kaç kredim eksik",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0063",
+"text": "diploma teslim tarihleri ne zaman",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0064",
+"text": "mezuniyet başvurusu nasıl yapılır",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0065",
+"text": "geçici mezuniyet belgesi istiyorum",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0066",
+"text": "diplomamı başkası alabilir mi",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0067",
+"text": "vekaletle diploma alınır mı",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0068",
+"text": "diplomamı kaybettim, yenisini nasıl çıkarırım",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0069",
+"text": "mezuniyet töreni ne zaman",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0070",
+"text": "diploma eki talep ediyorum",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0071",
+"text": "mezun olabilmek için hangi dersleri almalıyım",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0072",
+"text": "diplomadaki adım yanlış yazılmış",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0073",
+"text": "mezuniyet şartlarını öğrenmek istiyorum",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0074",
+"text": "ilişik kesme işlemini nasıl yaparım",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0075",
+"text": "mezuniyet onayım çıktı mı, numaram 2309102979",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0076",
+"text": "geçici mezuniyet belgem hazır mı",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0077",
+"text": "diploma almak için hangi belgeler gerekiyor",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0078",
+"text": "mezuniyet ortalamam kaç olmalı",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0079",
+"text": "tek ders sınavından sonra mezun olabilir miyim",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0080",
+"text": "diplomam şehir dışından gönderilebilir mi",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0081",
+"text": "mezuniyet listesinde adım yok",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0082",
+"text": "diploma defterini imzalamam gerekiyor mu",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0083",
+"text": "yaz okulu sonrası mezuniyetim ne zaman işlenir",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0084",
+"text": "mezun durumuna ne zaman geçerim",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0085",
+"text": "diploma denkliği için belge lazım",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0086",
+"text": "diploma kopyası almak istiyorum",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0087",
+"text": "mezuniyet komisyonu ne zaman toplanır",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0088",
+"text": "mezuniyet kepi ve cübbesi nereden alınır",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0089",
+"text": "mezuniyet tarihim neden görünmüyor",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0090",
+"text": "diplomamı almak için randevu istiyorum",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0091",
+"text": "ders seçimi ne zaman başlıyor",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0092",
+"text": "ders kaydımı yapamıyorum",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0093",
+"text": "ders ekle sil tarihleri ne zaman",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0094",
+"text": "bu dönem kaç kredi alabilirim",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0095",
+"text": "danışmanım ders kaydımı onaylamadı",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0096",
+"text": "seçmeli ders eklemek istiyorum",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0097",
+"text": "üst dönemden ders alabilir miyim",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0098",
+"text": "alttan ders almam gerekiyor",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0099",
+"text": "ders kontenjanı dolu, ne yapabilirim",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0100",
+"text": "ders programım çakışıyor",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0101",
+"text": "bir dersi bırakmak istiyorum",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0102",
+"text": "yaz okulunda hangi dersleri alabilirim",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0103",
+"text": "ders seçimi ekranında dersler gözükmüyor",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0104",
+"text": "danışman onayı olmadan ders seçilir mi",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0105",
+"text": "mazeretli ders kaydı yapmak istiyorum",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0106",
+"text": "ders kaydımı numaram 2609016226 ile kontrol eder misiniz",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0107",
+"text": "ortak zorunlu dersi başka şubeden alabilir miyim",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0108",
+"text": "başka fakülteden ders almak istiyorum",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0109",
+"text": "ön koşullu dersi seçemiyorum",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0110",
+"text": "ders değişikliği yapmak istiyorum",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0111",
+"text": "ders seçimimi yanlış yaptım",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0112",
+"text": "kredi limitimi aşmam gerekiyor",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0113",
+"text": "tekrar alacağım dersi nasıl seçerim",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0114",
+"text": "ders seçim tarihini kaçırdım",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0115",
+"text": "muaf olduğum dersleri seçmeli miyim",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0116",
+"text": "bu hafta ders ekleyebilir miyim",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0117",
+"text": "şube değiştirmek istiyorum",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0118",
+"text": "ders kayıt onayımı kaldırın, değişiklik yapacağım",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0119",
+"text": "hangi seçmeli dersler açılıyor",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0120",
+"text": "akademik takvimde ders seçimi günleri hangileri",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0121",
+"text": "kaydımı dondurmak istiyorum",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0122",
+"text": "kayıt dondurma nasıl yapılır",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0123",
+"text": "sağlık raporum var, kayıt dondurabilir miyim",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0124",
+"text": "askerlik nedeniyle kaydımı dondurmak istiyorum",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0125",
+"text": "bir dönem ara vermek istiyorum",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0126",
+"text": "kayıt dondurma dilekçesi nereye verilir",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0127",
+"text": "ailevi nedenlerle okula ara vereceğim",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0128",
+"text": "kayıt dondurma süresi en fazla ne kadar",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0129",
+"text": "kaydımı dondurursam harç öder miyim",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0130",
+"text": "dondurulan kaydı nasıl açarım",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0131",
+"text": "maddi nedenlerle kaydımı dondurmak istiyorum, no 2309016992",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0132",
+"text": "kayıt dondurma son tarihi ne zaman",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0133",
+"text": "izinli sayılmak istiyorum",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0134",
+"text": "hamilelik nedeniyle kayıt donduracağım",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0135",
+"text": "kayıt dondurma için hangi belgeler lazım",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0136",
+"text": "iki dönem kayıt dondurabilir miyim",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0137",
+"text": "dönem ortasında kayıt dondurulur mu",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0138",
+"text": "çalışma nedeniyle kaydımı dondurmak istiyorum",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0139",
+"text": "kaydımı dondurursam bursum ne olur",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0140",
+"text": "kayıt dondurma talebim onaylandı mı",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0141",
+"text": "yurt dışına çıkacağım, okula ara vermem gerekiyor",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0142",
+"text": "okuldan izin almak istiyorum",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0143",
+"text": "kayıt dondurma için yönetim kurulu kararı mı gerekiyor",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0144",
+"text": "hastalığım nedeniyle bu dönem okula devam edemeyeceğim",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0145",
+"text": "kaydımı nasıl aktif hale getiririm",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0146",
+"text": "dönem izni başvurusu yapmak istiyorum",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0147",
+"text": "tek ders için kayıt dondurma olur mu",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0148",
+"text": "kayıt dondurunca öğrencilik hakkım devam eder mi",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0149",
+"text": "kaydımı bir yıl dondurmak istiyorum",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0150",
+"text": "fakülteye kayıt dondurma dilekçemi verdim, sonucu ne oldu",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0151",
+"text": "yatay geçiş başvurusu nasıl yapılır",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0152",
+"text": "yatay geçiş şartları neler",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0153",
+"text": "başka üniversiteden yatay geçiş yapmak istiyorum",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0154",
+"text": "kurum içi yatay geçiş yapabilir miyim",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0155",
+"text": "yatay geçiş için not ortalaması kaç olmalı",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0156",
+"text": "ek madde 1 ile yatay geçiş yapmak istiyorum",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0157",
+"text": "yatay geçiş kontenjanları açıklandı mı",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0158",
+"text": "yatay geçiş başvuru tarihleri ne zaman",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0159",
+"text": "merkezi yerleştirme puanıyla geçiş yapabilir miyim",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0160",
+"text": "bölüm değiştirmek istiyorum",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0161",
+"text": "yatay geçiş sonuçları ne zaman açıklanır",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0162",
+"text": "yatay geçiş için hangi belgeler gerekiyor",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0163",
+"text": "yatay geçişle gelen öğrenciler ders muafiyeti alabilir mi",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0164",
+"text": "üniversitenize geçiş yapmak istiyorum",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0165",
+"text": "fakülte değiştirmek mümkün mü",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0166",
+"text": "yatay geçiş başvurum, numaram 1801016797",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0167",
+"text": "ikinci sınıfta yatay geçiş yapılır mı",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0168",
+"text": "yatay geçiş ile burs oranım değişir mi",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0169",
+"text": "yurt dışından yatay geçiş yapabilir miyim",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0170",
+"text": "hazırlık sınıfından yatay geçiş olur mu",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0171",
+"text": "yatay geçiş yedek listesi ne zaman çıkar",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0172",
+"text": "başka bölüme geçmek istiyorum",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0173",
+"text": "yatay geçiş kesin kayıt tarihleri hangileri",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0174",
+"text": "yatay geçiş başvurumda belge eksik",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0175",
+"text": "geçiş yapacağım bölümün kontenjanını öğrenmek istiyorum",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0176",
+"text": "intibak işlemleri yatay geçişten sonra nasıl yapılır",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0177",
+"text": "yatay geçiş için ÖSYM puanım yeterli mi",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0178",
+"text": "bölümümden memnun değilim, geçiş yapmak istiyorum",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0179",
+"text": "farklı üniversiteye geçişim için ne yapmalıyım",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0180",
+"text": "yatay geçiş başvuru sonucuma itiraz etmek istiyorum",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0181",
+"text": "harç ödememi yapamıyorum",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0182",
+"text": "harç borcum ne kadar",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0183",
+"text": "harcımı nasıl öderim",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0184",
+"text": "öğrenim ücreti taksitlendirme yapılıyor mu",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0185",
+"text": "kredi kartıyla harç ödenir mi",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0186",
+"text": "harç son ödeme tarihi ne zaman",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0187",
+"text": "banka harç ödememi kabul etmedi",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0188",
+"text": "fazla ödediğim harç ücretini geri almak istiyorum",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0189",
+"text": "ödeme yaptım ama sistemde borç görünüyor",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0190",
+"text": "ikinci taksiti ne zaman ödemeliyim",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0191",
+"text": "harç dekontumu nereye göndereyim",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0192",
+"text": "katkı payı tutarını öğrenmek istiyorum",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0193",
+"text": "gecikme faizi uygulanıyor mu",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0194",
+"text": "borcum nedeniyle ders kaydım yapılmıyor, numaram 2409104873",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0195",
+"text": "öğrenim ücretim neden arttı",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0196",
+"text": "harç ödeme ekranı hata veriyor",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0197",
+"text": "kardeş indirimi öğrenim ücretine yansımamış",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0198",
+"text": "taksit planımı değiştirmek istiyorum",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0199",
+"text": "havale ile öğrenim ücreti ödeyebilir miyim",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0200",
+"text": "harç makbuzu istiyorum",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0201",
+"text": "yabancı uyruklu öğrenci ücreti ne kadar",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0202",
+"text": "öğrenim ücretimin kalanı ne kadar",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0203",
+"text": "mali işler dekontumu onaylamadı",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0204",
+"text": "yaz okulu ücretini nasıl öderim",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0205",
+"text": "çift taksit çekilmiş, düzeltilmesini istiyorum",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0206",
+"text": "ödeme dönemini kaçırdım",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0207",
+"text": "ödenmemiş borcumu sorgulamak istiyorum",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0208",
+"text": "kurumsal ödeme yazısı lazım",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0209",
+"text": "ödeme planı başvurusu yapmak istiyorum",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0210",
+"text": "ödememi başka hesaba yaptım, ne yapacağım",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0211",
+"text": "OİS şifremi unuttum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0212",
+"text": "öğrenci bilgi sistemine giremiyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0213",
+"text": "e-posta şifremi sıfırlamak istiyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0214",
+"text": "OİS hesabım kilitlendi",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0215",
+"text": "şifre sıfırlama bağlantısı gelmiyor",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0216",
+"text": "kampüs wifi'ye bağlanamıyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0217",
+"text": "öğrenci mailime giriş yapamıyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0218",
+"text": "uzaktan eğitim sistemine giriş yapamıyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0219",
+"text": "şifrem kabul edilmiyor",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0220",
+"text": "çift aşamalı doğrulama kodu gelmiyor",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0221",
+"text": "kullanıcı adımı bilmiyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0222",
+"text": "öğrenci hesabım açılmadı, numaram 1901016567",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0223",
+"text": "sisteme girerken hata alıyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0224",
+"text": "telefon numaram değişti, doğrulama kodu alamıyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0225",
+"text": "ois giriş sayfası açılmıyor",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0226",
+"text": "parolamı değiştirmek istiyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0227",
+"text": "mail adresim çalışmıyor",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0228",
+"text": "yeni öğrenciyim, ilk şifremi nereden alırım",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0229",
+"text": "microsoft hesabıma giremiyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0230",
+"text": "e-devlet ile giriş yapamıyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0231",
+"text": "hesabımı başkası kullanmış olabilir, şifremi yenileyin",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0232",
+"text": "oturum açıyorum ama hemen kapanıyor",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0233",
+"text": "kütüphane veri tabanlarına uzaktan erişemiyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0234",
+"text": "şifremi girince sayfa yenileniyor",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0235",
+"text": "öğrenci portalı bana yetkisiz diyor",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0236",
+"text": "wifi şifresi nedir",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0237",
+"text": "hesabım askıya alınmış görünüyor",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0238",
+"text": "şifremi üç kere yanlış girdim",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0239",
+"text": "mobil uygulamaya oturum açamıyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0240",
+"text": "vpn bağlantısı yapamıyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0241",
+"text": "zorunlu staj başvurusu nasıl yapılır",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0242",
+"text": "staj sigorta formu nereden alınır",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0243",
+"text": "staj yerimi nasıl onaylatırım",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0244",
+"text": "staj başvuru tarihleri ne zaman",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0245",
+"text": "zorunlu staj kaç gün",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0246",
+"text": "staj defterini kime teslim edeceğim",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0247",
+"text": "staj için sgk girişimi yaptırmak istiyorum",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0248",
+"text": "staj kabul formu lazım",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0249",
+"text": "yaz stajı için başvuru yapmak istiyorum, numaram 2608018000",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0250",
+"text": "staj komisyonu başvurumu onayladı mı",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0251",
+"text": "stajımı başka şehirde yapabilir miyim",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0252",
+"text": "staj başlangıç tarihimi değiştirmek istiyorum",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0253",
+"text": "yurt dışında zorunlu staj yapabilir miyim",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0254",
+"text": "stajımı hangi dönem yapmalıyım",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0255",
+"text": "staj sözleşmesi imzalatmam gerekiyor",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0256",
+"text": "kariyer merkezine staj formumu nasıl teslim ederim",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0257",
+"text": "staj ücreti alabilir miyim",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0258",
+"text": "stajım kabul edilmedi, ne yapacağım",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0259",
+"text": "staj yapacağım kurum uygun mu",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0260",
+"text": "staj raporu nasıl hazırlanır",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0261",
+"text": "staj evraklarını kim imzalıyor",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0262",
+"text": "staj dönemi sigortamı kim yapacak",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0263",
+"text": "hastane stajı başvurusunu nereye yapıyorum",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0264",
+"text": "işyeri eğitimi başvurusu yapmak istiyorum",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0265",
+"text": "staj süresini tamamlayamadım",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0266",
+"text": "staj başvuru formunu doldurdum, nereye vereceğim",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0267",
+"text": "zorunlu stajımı işyerimde yapabilir miyim",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0268",
+"text": "staj evrakımda kaşe eksik",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0269",
+"text": "staj muafiyeti başvurusu yapmak istiyorum",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0270",
+"text": "staj değerlendirme formu nereden indirilir",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0271",
+"text": "burs başvurusu nasıl yapılır",
+"intent": "burs"
+},
+{
+"id": "train-0272",
+"text": "yemek bursuna başvurmak istiyorum",
+"intent": "burs"
+},
+{
+"id": "train-0273",
+"text": "başarı bursu şartları neler",
+"intent": "burs"
+},
+{
+"id": "train-0274",
+"text": "bursum neden kesildi",
+"intent": "burs"
+},
+{
+"id": "train-0275",
+"text": "burs sonuçları ne zaman açıklanır",
+"intent": "burs"
+},
+{
+"id": "train-0276",
+"text": "kyk bursu ile ilgili bilgi almak istiyorum",
+"intent": "burs"
+},
+{
+"id": "train-0277",
+"text": "ihtiyaç bursu için hangi belgeler gerekiyor",
+"intent": "burs"
+},
+{
+"id": "train-0278",
+"text": "burs ödemem yatmadı",
+"intent": "burs"
+},
+{
+"id": "train-0279",
+"text": "kısmi çalışma öğrencisi olmak istiyorum",
+"intent": "burs"
+},
+{
+"id": "train-0280",
+"text": "barınma desteği başvurusu yapmak istiyorum",
+"intent": "burs"
+},
+{
+"id": "train-0281",
+"text": "burs oranım düştü, numaram 1801015620",
+"intent": "burs"
+},
+{
+"id": "train-0282",
+"text": "sks burs başvurusu ne zaman",
+"intent": "burs"
+},
+{
+"id": "train-0283",
+"text": "tam burslu öğrenciyim, bursum devam ediyor mu",
+"intent": "burs"
+},
+{
+"id": "train-0284",
+"text": "kardeş bursu var mı",
+"intent": "burs"
+},
+{
+"id": "train-0285",
+"text": "spor başarı bursu alabilir miyim",
+"intent": "burs"
+},
+{
+"id": "train-0286",
+"text": "burs mülakatı ne zaman",
+"intent": "burs"
+},
+{
+"id": "train-0287",
+"text": "bursumu kaybetmemek için not ortalamam kaç olmalı",
+"intent": "burs"
+},
+{
+"id": "train-0288",
+"text": "burs başvuru formu nerede",
+"intent": "burs"
+},
+{
+"id": "train-0289",
+"text": "burs komisyonu sonucu açıklandı mı",
+"intent": "burs"
+},
+{
+"id": "train-0290",
+"text": "engelli öğrenci desteği başvurusu yapmak istiyorum",
+"intent": "burs"
+},
+{
+"id": "train-0291",
+"text": "kampüs içi öğrenci çalışma ilanları nerede",
+"intent": "burs"
+},
+{
+"id": "train-0292",
+"text": "ne kadar burs alabilirim",
+"intent": "burs"
+},
+{
+"id": "train-0293",
+"text": "yemek kartı desteği alıyordum, kesilmiş",
+"intent": "burs"
+},
+{
+"id": "train-0294",
+"text": "bursum hangi hesaba yatıyor",
+"intent": "burs"
+},
+{
+"id": "train-0295",
+"text": "kültür ve spor destek bursu hakkında bilgi istiyorum",
+"intent": "burs"
+},
+{
+"id": "train-0296",
+"text": "bu dönem burs başvuruları açık mı",
+"intent": "burs"
+},
+{
+"id": "train-0297",
+"text": "sosyal yardım almak istiyorum",
+"intent": "burs"
+},
+{
+"id": "train-0298",
+"text": "ihtiyaç sahibi öğrenciler için destek var mı",
+"intent": "burs"
+},
+{
+"id": "train-0299",
+"text": "vakıf bursu başvurusu yapmak istiyorum",
+"intent": "burs"
+},
+{
+"id": "train-0300",
+"text": "burs başvurumda belge eksik dediler",
+"intent": "burs"
+},
+{
+"id": "train-0301",
+"text": "iş yerim için okula devam ettiğimi gösteren resmi bir evrak almam gerekiyor, nasıl bir yol izlemeliyim",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0302",
+"text": "merhabalar, burs veren kurum benden güncel öğrenci belgesi istedi, bugün çıkarabilir miyim",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0303",
+"text": "öğrenci belgemi kendi hesabımdan indiremedim, bana başka bir yol söyler misiniz",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0304",
+"text": "vergi dairesine vereceğim için okuldan öğrenci olduğuma dair kaşeli bir kağıt lazım oldu",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0305",
+"text": "ehliyet kursu okulumuzdan belge istiyor, öğrencilik belgemi nereden alacağım",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0306",
+"text": "ev sahibim öğrenci olduğumu kanıtlamamı istedi, üniversiteden yazı alabilir miyim",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "train-0307",
+"text": "bir şirkete başvuruyorum ve lisans notlarımın tamamını görmek istiyorlar, resmi dökümü nasıl alabilirim",
+"intent": "transkript"
+},
+{
+"id": "train-0308",
+"text": "merhabalar, master başvurusu için notlarımın ingilizce onaylı halini almam gerekiyor",
+"intent": "transkript"
+},
+{
+"id": "train-0309",
+"text": "sistemde notlarımı görüyorum ama resmi kağıt olarak çıktısını nereden isteyeceğim",
+"intent": "transkript"
+},
+{
+"id": "train-0310",
+"text": "başvurduğum okul not dökümünün doğrudan üniversiteden gönderilmesini şart koşuyor",
+"intent": "transkript"
+},
+{
+"id": "train-0311",
+"text": "eski dönem notlarım döküme yanlış işlenmiş gibi duruyor, kontrol ettirmek istiyorum",
+"intent": "transkript"
+},
+{
+"id": "train-0312",
+"text": "bütün derslerimi verdim sanırım, şimdi mezuniyet için benim ne yapmam gerekiyor",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0313",
+"text": "merhabalar, diplomamı almak için kendim gelemiyorum, kardeşim gelse olur mu",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0314",
+"text": "işe başlayacağım ve geçici mezuniyet belgemi en kısa sürede almam gerekiyor",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0315",
+"text": "okuldan ilişiğimi kestim, diplomamı hangi gün teslim alabileceğimi öğrenmek istiyorum",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0316",
+"text": "tören için cüppe nereden alınıyor, misafir hakkımız var mı merak ediyorum",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "train-0317",
+"text": "ders kayıt ekranı açıldı ama seçtiğim dersi sepete ekleyemiyorum, neden olabilir",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0318",
+"text": "merhabalar, danışman hocama ulaşamıyorum ve kayıt onayım bekliyor, süre doluyor",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0319",
+"text": "almak istediğim seçmelinin yeri kalmamış, başka bir şekilde kayıt olabilir miyim",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0320",
+"text": "çalıştığım için ders saatlerimi değiştirmek istiyorum, başka şubeye geçebilir miyim",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0321",
+"text": "geçen yıl başarısız olduğum dersi bu dönem yeniden almak için ne yapmam gerekiyor",
+"intent": "ders-secimi"
+},
+{
+"id": "train-0322",
+"text": "ailemle ilgili bir sorun çıktı ve bu dönem derslere gelemeyeceğim, okula ara vermenin yolu nedir",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0323",
+"text": "merhabalar, uzun süreli tedavi göreceğim için öğrenimime bir dönem ara vermek istiyorum",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0324",
+"text": "çalışmak zorunda kaldım, kaydımı bir süre durdurmak mümkün mü",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0325",
+"text": "dönem başladı ama devam edemeyeceğim, kaydımı dondurmak için hâlâ vaktim var mı",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0326",
+"text": "fakülteye verdiğim izin dilekçesinin sonucunu öğrenmek istiyorum",
+"intent": "kayit-dondurma"
+},
+{
+"id": "train-0327",
+"text": "şu an farklı bir üniversitede okuyorum, sizin bölüme nasıl geçebilirim öğrenmek istiyorum",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0328",
+"text": "merhabalar, kendi fakültemde başka bir programa geçmek istiyorum, şartlar nelerdir",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0329",
+"text": "ortalamam yeterli mi bilmiyorum, yatay geçiş için bir kontrol edebilir misiniz",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0330",
+"text": "geçiş yaparsam önceki üniversitemde aldığım dersler sayılacak mı merak ediyorum",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0331",
+"text": "sınav puanımla başka bölüme geçme hakkım olup olmadığını öğrenmek istiyorum",
+"intent": "yatay-gecis"
+},
+{
+"id": "train-0332",
+"text": "kartımdan para çıktı fakat hesabımda ödenmiş görünmüyor, ne yapmam gerekiyor",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0333",
+"text": "merhabalar, bu dönemki öğrenim ücretimi taksitle ödemek istiyorum, nasıl yapabilirim",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0334",
+"text": "yanlışlıkla iki kez ödeme yapmışım, fazla tutarı hesabıma geri alabilir miyim",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0335",
+"text": "borcum olduğu için kayıt yapamıyorum, ödeme yaparsam ne kadar sürede açılır",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0336",
+"text": "indirimim ücrete yansımamış, tutarın düzeltilmesini rica ediyorum",
+"intent": "harc-odeme"
+},
+{
+"id": "train-0337",
+"text": "şifremi doğru yazdığımı düşünüyorum ama sistem beni içeri almıyor, ne yapabilirim",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0338",
+"text": "merhabalar, telefon numaram değiştiği için doğrulama kodu alamıyorum ve hesabıma giremiyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0339",
+"text": "öğrenci mail adresime giremediğim için hiçbir duyuruyu göremiyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0340",
+"text": "uzaktan eğitim sayfası kullanıcı adımı tanımıyor, sınavım var yardım eder misiniz",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0341",
+"text": "yeni kayıt oldum, sisteme ilk girişi nasıl yapacağımı bilmiyorum",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "train-0342",
+"text": "yaz için bir şirketle anlaştım, okuldan hangi evrakları almam gerekiyor bilmiyorum",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0343",
+"text": "merhabalar, staj yapacağım yer belli oldu, sigorta işlemim için ne yapmalıyım",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0344",
+"text": "staj dosyamı teslim etmem gereken tarihi kaçırmış olabilirim, ne yapabilirim",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0345",
+"text": "şirket benden okuldan imzalı bir form istiyor, staj için nereye başvuracağım",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0346",
+"text": "çalıştığım kurumda zorunlu stajımı yapmam mümkün mü öğrenmek istiyorum",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "train-0347",
+"text": "ailemin maddi durumu kötüleşti, okulun öğrencilere sağladığı bir destek var mı acaba",
+"intent": "burs"
+},
+{
+"id": "train-0348",
+"text": "merhabalar, bu ay bursum hesabıma geçmedi, kontrol edebilir misiniz",
+"intent": "burs"
+},
+{
+"id": "train-0349",
+"text": "ortalamam düştüğü için bursumun kesilmesinden korkuyorum, sınır kaç",
+"intent": "burs"
+},
+{
+"id": "train-0350",
+"text": "kampüste çalışarak harçlığımı çıkarmak istiyorum, başvuru nereye yapılıyor",
+"intent": "burs"
+},
+{
+"id": "train-0351",
+"text": "burs görüşmesine katılamadım, başvurum geçersiz mi sayılır",
+"intent": "burs"
+}
+]

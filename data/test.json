@@ -1,0 +1,1092 @@
+[
+{
+"id": "test-0001",
+"text": "selam ya yarın bankaya gitmem lazım öğrenci olduğumu gösteren bi kağıt istiyorlar nasıl halledicem",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "test-0002",
+"text": "iyi günler, askerlik şubesinden öğrencilik durumumu belgelememi istediler, numaram 2601018246, yardımcı olur musunuz",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "test-0003",
+"text": "ogrenci belgesi lazim acil ya",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "test-0004",
+"text": "konsolosluğa götüreceğim için üzerinde kaşe olan belge lazım, öğrenci olduğumu yazsın yeter",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "test-0005",
+"text": "e devlet'te belgem çıkmıyor hata veriyor başka nasıl alırım öğrenci belgemi",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "test-0006",
+"text": "babamın işyeri aile yardımı için okuldan yazı istemiş, okuduğumu gösteren belge alabilir miyim",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "test-0007",
+"text": "hocam merhaba bi öğrenci belgesi çıkarabilir misiniz 2201013096",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "test-0008",
+"text": "kyk yurdu okuldan öğrenciyim diye evrak istiyor bugün son gün",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "test-0009",
+"text": "ingilizce olarak öğrenci belgesi gerekiyor erasmus için, nereden isteyeceğim bilmiyorum",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "test-0010",
+"text": "belgemde sınıfım yanlış yazmış, doğrusuyla yenisini alabilir miyim öğrenci belgemi",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "test-0011",
+"text": "geçen hafta talep ettiğim öğrenci belgesi hâlâ gelmedi numaram 230901626",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "test-0012",
+"text": "tren indirimi için öğrenci belgesi gösterilmesi lazımmış nasıl alırım",
+"intent": "ogrenci-belgesi"
+},
+{
+"id": "test-0013",
+"text": "abi ben yüksek lisansa başvuruyorum notlarımın hepsini gösteren resmi kağıt lazım",
+"intent": "transkript"
+},
+{
+"id": "test-0014",
+"text": "transkirpt nasıl alınıyor bilen var mı ya",
+"intent": "transkript"
+},
+{
+"id": "test-0015",
+"text": "iyi akşamlar, mezun olalı 3 yıl oldu şimdi iş başvurum için ingilizce transkript gerekiyor numaram 2601010251",
+"intent": "transkript"
+},
+{
+"id": "test-0016",
+"text": "geçen dönem aldığım AA notu transkriptimde gözükmüyor bakabilir misiniz",
+"intent": "transkript"
+},
+{
+"id": "test-0017",
+"text": "kanadadaki okul transkripti doğrudan onlara göndermenizi istiyor mühürlü zarf içinde",
+"intent": "transkript"
+},
+{
+"id": "test-0018",
+"text": "transkriptimin üç nüshasını istiyorum ücreti neyse öderim",
+"intent": "transkript"
+},
+{
+"id": "test-0019",
+"text": "not dökümümde ortalama yanlış hesaplanmış bence kontrol edilebilir mi",
+"intent": "transkript"
+},
+{
+"id": "test-0020",
+"text": "transkript için dilekçe mi lazım direkt sistemden mi alınıyor anlamadım",
+"intent": "transkript"
+},
+{
+"id": "test-0021",
+"text": "hocam şirket benden tüm derslerimi ve notlarımı gösteren belge istedi 2509013985",
+"intent": "transkript"
+},
+{
+"id": "test-0022",
+"text": "bi transkript çıktısı alacaktım ois'te nerede",
+"intent": "transkript"
+},
+{
+"id": "test-0023",
+"text": "notlarımın dökümünü pdf olarak maille yollayabilir misiniz",
+"intent": "transkript"
+},
+{
+"id": "test-0024",
+"text": "yurt dışı başvurusu için not belgesi onaylı olacakmış ne yapmalıyım",
+"intent": "transkript"
+},
+{
+"id": "test-0025",
+"text": "abi ben bu dönem bitiriyorum diplomayı ne zaman alıcam ya",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "test-0026",
+"text": "diplomma teslimi için okula gelmem gerekiyor mu şehir dışındayım",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "test-0027",
+"text": "annemin elinde vekaletname var, onun adıma diplomamı almasına izin verir misiniz 1808010193",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "test-0028",
+"text": "son dersimi de verdim galiba mezun oldum ama sistemde hâlâ öğrenci yazıyor",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "test-0029",
+"text": "kep atma töreni bu sene hangi tarihte yapılıyor kaç misafir getirebilirim",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "test-0030",
+"text": "geçici mezuniyet belgemi bir iş yerine vermem lazım ne zaman çıkar numaram 2508016945",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "test-0031",
+"text": "eski diplomam yangında yandı yerine yenisini verebiliyor musunuz",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "test-0032",
+"text": "diplomada soyadım evlenmeden önceki gibi kalmış değiştirilebilir mi",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "test-0033",
+"text": "mezun olmak için kaç kredi daha lazım bakabilir misiniz, bir de staj dahil mi",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "test-0034",
+"text": "ilişik kesme formunu doldurdum şimdi diplomam için ne yapmam gerek",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "test-0035",
+"text": "tek ders kaldı sınavını geçersem hemen mezun sayılır mıyım",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "test-0036",
+"text": "mezuniyet listesinde adımı göremedim yanlışlık mı var",
+"intent": "diploma-mezuniyet"
+},
+{
+"id": "test-0037",
+"text": "ya ders seçimi açıldı ama hiçbir ders görünmüyor ekranda ne yapacam",
+"intent": "ders-secimi"
+},
+{
+"id": "test-0038",
+"text": "hocam danışmanım iki gündür onaylamıyor kayıtlar kapanıyor yardım edin 1808012048",
+"intent": "ders-secimi"
+},
+{
+"id": "test-0039",
+"text": "istatistik dersinin kontenjanı dolmuş bi şekilde eklenebilir miyim",
+"intent": "ders-secimi"
+},
+{
+"id": "test-0040",
+"text": "pazartesi 10-12 iki dersim çakışıyor birini değiştirmem lazım",
+"intent": "ders-secimi"
+},
+{
+"id": "test-0041",
+"text": "geçen sene kaldığım dersi tekrar nasıl alıcam",
+"intent": "ders-secimi"
+},
+{
+"id": "test-0042",
+"text": "mühendislik fakültesinden seçmeli almak mümkün mü acaba",
+"intent": "ders-secimi"
+},
+{
+"id": "test-0043",
+"text": "ekle sil haftası bitti mi kaçırdıysam dersimi nasıl bırakırım",
+"intent": "ders-secimi"
+},
+{
+"id": "test-0044",
+"text": "bu dönem 30 akts den fazla alabilir miyim ortalamam 3.5",
+"intent": "ders-secimi"
+},
+{
+"id": "test-0045",
+"text": "önkoşul dersi veremedim ama devamını almak zorundayım ne yapabilirim",
+"intent": "ders-secimi"
+},
+{
+"id": "test-0046",
+"text": "hastaydım ders kaydını kaçırdım mazeretli kayıt var mı numaram 2609102900",
+"intent": "ders-secimi"
+},
+{
+"id": "test-0047",
+"text": "a şubesinden b şubesine geçmek istiyorum saatim uymuyor",
+"intent": "ders-secimi"
+},
+{
+"id": "test-0048",
+"text": "seçmeli ders havuzunda neler var bu dönem",
+"intent": "ders-secimi"
+},
+{
+"id": "test-0049",
+"text": "babam hastalandı memlekete dönmem lazım bu dönem okula devam edemiycem kaydımı durdurabilir miyim",
+"intent": "kayit-dondurma"
+},
+{
+"id": "test-0050",
+"text": "raporum var iki ay hastanede kalacağım okul ne olacak, numaram 2009011675",
+"intent": "kayit-dondurma"
+},
+{
+"id": "test-0051",
+"text": "bu dönem çalışmam lazım maddi durumum kötü okula bir süre ara verebilir miyim",
+"intent": "kayit-dondurma"
+},
+{
+"id": "test-0052",
+"text": "kayıt dondurma son günü geçti mi acaba hala yapabilir miyim",
+"intent": "kayit-dondurma"
+},
+{
+"id": "test-0053",
+"text": "fakülte sekreterliğine dilekçe verdim dondurma için sonuç ne zaman çıkar 2301017597",
+"intent": "kayit-dondurma"
+},
+{
+"id": "test-0054",
+"text": "askerlik yapacağım için okuldan ayrılmak değil de ara vermek istiyorum",
+"intent": "kayit-dondurma"
+},
+{
+"id": "test-0055",
+"text": "bir yıl ara verirsem dönünce derslerime kaldığım yerden devam eder miyim",
+"intent": "kayit-dondurma"
+},
+{
+"id": "test-0056",
+"text": "bebeğim doğacak bir dönem izin alabilir miyim",
+"intent": "kayit-dondurma"
+},
+{
+"id": "test-0057",
+"text": "kayıt dondurursam bu dönemin parasını ödemek zorunda mıyım",
+"intent": "kayit-dondurma"
+},
+{
+"id": "test-0058",
+"text": "dondurduğum kaydı erkenden açabilir miyim",
+"intent": "kayit-dondurma"
+},
+{
+"id": "test-0059",
+"text": "ameliyat oldum sağlık kurulu raporu ile dönem izni istiyorum",
+"intent": "kayit-dondurma"
+},
+{
+"id": "test-0060",
+"text": "yurtdışındaki ailemin yanına gideceğim okula ara vermem gerek nasıl yapılıyor",
+"intent": "kayit-dondurma"
+},
+{
+"id": "test-0061",
+"text": "şu an başka üniversitede okuyorum sizin psikolojiye geçmek istiyorum nasıl oluyor",
+"intent": "yatay-gecis"
+},
+{
+"id": "test-0062",
+"text": "ösym puanımla bölüm değiştirebilir miyim ek madde 1 miymiş neymiş",
+"intent": "yatay-gecis"
+},
+{
+"id": "test-0063",
+"text": "ortalamam 2.7 sizin diş hekimliğine yatay geçiş için yeter mi",
+"intent": "yatay-gecis"
+},
+{
+"id": "test-0064",
+"text": "kendi bölümümü sevmedim aynı okulda başka bölüme geçişim mümkün mü 2609106014",
+"intent": "yatay-gecis"
+},
+{
+"id": "test-0065",
+"text": "yatay geçiş başvuruları güz için ne zaman açılıyor",
+"intent": "yatay-gecis"
+},
+{
+"id": "test-0066",
+"text": "yatay gecis sonucları açıklandı mı yedekteyim",
+"intent": "yatay-gecis"
+},
+{
+"id": "test-0067",
+"text": "geçiş yaparsam eski okulda aldığım dersler sayılır mı",
+"intent": "yatay-gecis"
+},
+{
+"id": "test-0068",
+"text": "başvuru dosyamda not belgesi eksik diye mesaj geldi geçiş için",
+"intent": "yatay-gecis"
+},
+{
+"id": "test-0069",
+"text": "yurt dışındaki üniversiteden buraya geçmek istiyorum denklik lazım mı",
+"intent": "yatay-gecis"
+},
+{
+"id": "test-0070",
+"text": "kontenjan kaç kişi yatay geçiş için hukuk bölümünde",
+"intent": "yatay-gecis"
+},
+{
+"id": "test-0071",
+"text": "reddedilen geçiş başvurum için itiraz edebilir miyim 1808016002",
+"intent": "yatay-gecis"
+},
+{
+"id": "test-0072",
+"text": "ikinci sınıftayım ama bölüm değişikliği yapmak istiyorum",
+"intent": "yatay-gecis"
+},
+{
+"id": "test-0073",
+"text": "kartımdan para çekildi ama sistem hala borçlu gösteriyor ne yapıcam",
+"intent": "harc-odeme"
+},
+{
+"id": "test-0074",
+"text": "harc odemesi yapmaya calısıyorum sayfa hata veriyor son gün bugün",
+"intent": "harc-odeme"
+},
+{
+"id": "test-0075",
+"text": "ikinci taksitimi unuttum gecikme cezası var mı numaram 2209010107",
+"intent": "harc-odeme"
+},
+{
+"id": "test-0076",
+"text": "kardeşim de burada okuyor indirim yapılması gerekiyordu yapılmamış",
+"intent": "harc-odeme"
+},
+{
+"id": "test-0077",
+"text": "dekontu mali işlere attım hala onaylanmadı",
+"intent": "harc-odeme"
+},
+{
+"id": "test-0078",
+"text": "yanlışlıkla iki kere ödeme yaptım fazlasını nasıl geri alırım",
+"intent": "harc-odeme"
+},
+{
+"id": "test-0079",
+"text": "bu yılki öğrenim ücretimi peşin ödersem indirim var mı",
+"intent": "harc-odeme"
+},
+{
+"id": "test-0080",
+"text": "borcum yüzünden ders seçimi yapamıyorum hemen ödesem ne kadar sürede açılır",
+"intent": "harc-odeme"
+},
+{
+"id": "test-0081",
+"text": "babam havale yaptı ama açıklama kısmına numara yazmayı unuttu 1909010916",
+"intent": "harc-odeme"
+},
+{
+"id": "test-0082",
+"text": "öğrenim ücretimin kalan tutarını nereden görüyorum",
+"intent": "harc-odeme"
+},
+{
+"id": "test-0083",
+"text": "taksitleri 8e bölebilir miyim",
+"intent": "harc-odeme"
+},
+{
+"id": "test-0084",
+"text": "yabancı öğrenciyim ödemeyi euro olarak yapabilir miyim",
+"intent": "harc-odeme"
+},
+{
+"id": "test-0085",
+"text": "ois e giremiyorum şifre yanlış diyor ama doğru yazıyorum eminim",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "test-0086",
+"text": "mail şifremi unuttum telefonum da değişti kod gelmiyor ne yapıcam",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "test-0087",
+"text": "hocam sistem hesabınız kilitlendi diyor numaram 2109012419",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "test-0088",
+"text": "kampüste internete bağlanamıyorum kullanıcı adı neydi",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "test-0089",
+"text": "uzem'e giremiyorum yarın sınavım var çok acil",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "test-0090",
+"text": "sıfırlama maili gelmiyor spam'e de baktım",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "test-0091",
+"text": "yeni kayıt oldum öğrenci mailimin şifresini kimse vermedi 2201012790",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "test-0092",
+"text": "outlook sürekli şifre soruyor kabul etmiyor",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "test-0093",
+"text": "otomasyon sistemine giriş yapınca beyaz ekran geliyor",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "test-0094",
+"text": "parolamı 3 kez yanlış girdim engellendim sanırım",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "test-0095",
+"text": "okulun vpn ine bağlanamıyorum kütüphaneye erişemiyorum evden",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "test-0096",
+"text": "telefondaki uygulama oturum açmıyor sürekli atıyor",
+"intent": "sifre-giris-sorunu"
+},
+{
+"id": "test-0097",
+"text": "yaz stajı yapacağım firma buldum şimdi okuldan ne almam gerekiyor sigorta filan",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "test-0098",
+"text": "staj defterimi teslim etmeyi unuttum tarih geçti mi 2409016737",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "test-0099",
+"text": "hastane stajım için formu kime imzalatıyorum kariyer merkezi mi",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "test-0100",
+"text": "20 iş günü staj yapmam lazım şirket 15 gün kabul ediyor olur mu",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "test-0101",
+"text": "babamın şirketinde zorunlu stajımı yapabilir miyim",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "test-0102",
+"text": "staj başlangıcımı bir hafta ertelemem gerekti form değişmeli mi 2309103014",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "test-0103",
+"text": "sgk girişim yapılmadan staja başladım sorun olur mu",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "test-0104",
+"text": "staj raporu kaç sayfa olacak formatı var mı",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "test-0105",
+"text": "ingilterede staj bulabilirim sayılır mı zorunlu staj olarak",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "test-0106",
+"text": "staj başvuru evrakını elden mi getiriyoruz",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "test-0107",
+"text": "staj firması kaşe basmadan yolladı formu geçerli mi",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "test-0108",
+"text": "işyerinde çalışıyorum zaten staj muafiyeti alabilir miyim",
+"intent": "zorunlu-staj-basvuru"
+},
+{
+"id": "test-0109",
+"text": "bursum bu ay yatmadı normalde 5inde geliyordu 2309101397",
+"intent": "burs"
+},
+{
+"id": "test-0110",
+"text": "ailem zor durumda okulun yardım ettiği bir şey var mı öğrencilere",
+"intent": "burs"
+},
+{
+"id": "test-0111",
+"text": "yemekhane desteği için başvuru hangi tarihte kapanıyor",
+"intent": "burs"
+},
+{
+"id": "test-0112",
+"text": "ortalamam 3.1e düştü bursum kesilir mi",
+"intent": "burs"
+},
+{
+"id": "test-0113",
+"text": "kısmi zamanlı öğrenci işlerinde çalışmak istiyorum okulda ilan var mı",
+"intent": "burs"
+},
+{
+"id": "test-0114",
+"text": "başarı bursu yüzde kaç oluyor ortalama 3.8 ile",
+"intent": "burs"
+},
+{
+"id": "test-0115",
+"text": "mülakata katılamadım burs hakkım gider mi 2609100094",
+"intent": "burs"
+},
+{
+"id": "test-0116",
+"text": "milli sporcuyum bursunuz var mı",
+"intent": "burs"
+},
+{
+"id": "test-0117",
+"text": "burs sonuçları sks'de ne zaman asılacak",
+"intent": "burs"
+},
+{
+"id": "test-0118",
+"text": "yurt desteği veriyormuşsunuz başvurusu nasıl",
+"intent": "burs"
+},
+{
+"id": "test-0119",
+"text": "kardeşimle aynı okuldayız ikimize de burs olur mu",
+"intent": "burs"
+},
+{
+"id": "test-0120",
+"text": "gelir belgem eksikmiş burs dosyasında ne getirmeliyim",
+"intent": "burs"
+},
+{
+"id": "test-0121",
+"text": "spor salonuna kayıt olmak istiyorum saatleri neler",
+"intent": "unknown"
+},
+{
+"id": "test-0122",
+"text": "kampüste otopark ücretli mi araç getirebilir miyim",
+"intent": "unknown"
+},
+{
+"id": "test-0123",
+"text": "sağlık merkezinde bugün doktor var mı",
+"intent": "unknown"
+},
+{
+"id": "test-0124",
+"text": "kantinde çay fiyatı ne kadar oldu acaba",
+"intent": "unknown"
+},
+{
+"id": "test-0125",
+"text": "vize sınavının yeri belli oldu mu hangi amfi",
+"intent": "unknown"
+},
+{
+"id": "test-0126",
+"text": "tiyatro kulübünün gösterisi hangi gün",
+"intent": "unknown"
+},
+{
+"id": "test-0127",
+"text": "kütüphanede kaybettiğim kalemliğimi bulan oldu mu",
+"intent": "unknown"
+},
+{
+"id": "test-0128",
+"text": "erkek yurdunun yemekleri neden bu kadar kötü",
+"intent": "unknown"
+},
+{
+"id": "test-0129",
+"text": "ferdi tayfur 'dan sen ağlama çal",
+"intent": "unknown"
+},
+{
+"id": "test-0130",
+"text": "her gün öğleden sonra ikide bana öğle yemeğini hatırlat",
+"intent": "unknown"
+},
+{
+"id": "test-0131",
+"text": "ezhel den allahından bul u çal",
+"intent": "unknown"
+},
+{
+"id": "test-0132",
+"text": "ekonomik işler",
+"intent": "unknown"
+},
+{
+"id": "test-0133",
+"text": "aydından izmire bir tren bileti al",
+"intent": "unknown"
+},
+{
+"id": "test-0134",
+"text": "haberleri görmek istiyorum",
+"intent": "unknown"
+},
+{
+"id": "test-0135",
+"text": "kahvem soğuk lütfen daha fazla kahve yap",
+"intent": "unknown"
+},
+{
+"id": "test-0136",
+"text": "nükhet duru kaç yaşında",
+"intent": "unknown"
+},
+{
+"id": "test-0137",
+"text": "amerikan doları sterlin karşısında ne kadar",
+"intent": "unknown"
+},
+{
+"id": "test-0138",
+"text": "şimdi ışıkları kapat",
+"intent": "unknown"
+},
+{
+"id": "test-0139",
+"text": "tüm amerikada en az kasırga olan eyalet nedir",
+"intent": "unknown"
+},
+{
+"id": "test-0140",
+"text": "olly sıcak sosyal medya konuları neler",
+"intent": "unknown"
+},
+{
+"id": "test-0141",
+"text": "sabah altı da uyandığımdan emin ol",
+"intent": "unknown"
+},
+{
+"id": "test-0142",
+"text": "bir yere nasıl gidilir",
+"intent": "unknown"
+},
+{
+"id": "test-0143",
+"text": "en yakın taksiyi ayırt",
+"intent": "unknown"
+},
+{
+"id": "test-0144",
+"text": "dünyanın en derin noktası neresidir",
+"intent": "unknown"
+},
+{
+"id": "test-0145",
+"text": "bugünün postasında toplantı programını kontrol et",
+"intent": "unknown"
+},
+{
+"id": "test-0146",
+"text": "bu hafta miami için hava nasıl",
+"intent": "unknown"
+},
+{
+"id": "test-0147",
+"text": "oryantal ve folk müzik dinlemek istiyorum",
+"intent": "unknown"
+},
+{
+"id": "test-0148",
+"text": "şu an saatin kaç olduğunu bilmem gerekiyor nedir",
+"intent": "unknown"
+},
+{
+"id": "test-0149",
+"text": "alarmı iptal et",
+"intent": "unknown"
+},
+{
+"id": "test-0150",
+"text": "burak meriçe gönder ve email",
+"intent": "unknown"
+},
+{
+"id": "test-0151",
+"text": "twitter'ı aç mesaj at",
+"intent": "unknown"
+},
+{
+"id": "test-0152",
+"text": "gelecek salı ayın kaçı",
+"intent": "unknown"
+},
+{
+"id": "test-0153",
+"text": "kitabı durdur",
+"intent": "unknown"
+},
+{
+"id": "test-0154",
+"text": "bir şubat ve on altı mart aralığındaki süreçte hangi toplantılar yer aldı",
+"intent": "unknown"
+},
+{
+"id": "test-0155",
+"text": "grubuma yeni toplantı tarihinin yarın olduğunu bildir",
+"intent": "unknown"
+},
+{
+"id": "test-0156",
+"text": "son bir saat içinden hiç yeni epostalarım var mı",
+"intent": "unknown"
+},
+{
+"id": "test-0157",
+"text": "can'dan gelen yeni bir e-posta için e-postamı kontrol et",
+"intent": "unknown"
+},
+{
+"id": "test-0158",
+"text": "bu haftasonu burada neler oluyor",
+"intent": "unknown"
+},
+{
+"id": "test-0159",
+"text": "rock modunu değiştir",
+"intent": "unknown"
+},
+{
+"id": "test-0160",
+"text": "son e-postalar ı göster",
+"intent": "unknown"
+},
+{
+"id": "test-0161",
+"text": "etkinlik sırasında beni uyar",
+"intent": "unknown"
+},
+{
+"id": "test-0162",
+"text": "lütfen hatırlatıcılarımı kontrol et",
+"intent": "unknown"
+},
+{
+"id": "test-0163",
+"text": "bugün dünyada neler oluyor",
+"intent": "unknown"
+},
+{
+"id": "test-0164",
+"text": "lütfen hoparlörümü sessize al",
+"intent": "unknown"
+},
+{
+"id": "test-0165",
+"text": "temalar çalma listesini döngüye alabilir misin",
+"intent": "unknown"
+},
+{
+"id": "test-0166",
+"text": "ses seviyesini yüzde otuz beşe getir",
+"intent": "unknown"
+},
+{
+"id": "test-0167",
+"text": "dünya haberlerinden bildirim ayarla",
+"intent": "unknown"
+},
+{
+"id": "test-0168",
+"text": "on dokuzundaki etkinlikler i benim takvimimden kaldır",
+"intent": "unknown"
+},
+{
+"id": "test-0169",
+"text": "lütfen yarınki toplantıyla ilgili olarak selin'e bir e-posta gönderin",
+"intent": "unknown"
+},
+{
+"id": "test-0170",
+"text": "evimi temizle",
+"intent": "unknown"
+},
+{
+"id": "test-0171",
+"text": "hey cana mail gönder",
+"intent": "unknown"
+},
+{
+"id": "test-0172",
+"text": "mcdonald'sın kötü bir servisi olduğu hakkında tweet at",
+"intent": "unknown"
+},
+{
+"id": "test-0173",
+"text": "bugün için tüm toplantıların davetlilerden confirme almam lazım",
+"intent": "unknown"
+},
+{
+"id": "test-0174",
+"text": "bugün ben ne seyredeyim",
+"intent": "unknown"
+},
+{
+"id": "test-0175",
+"text": "ben kenan doğulu şarkılarını seviyorum",
+"intent": "unknown"
+},
+{
+"id": "test-0176",
+"text": "bana uber çağır",
+"intent": "unknown"
+},
+{
+"id": "test-0177",
+"text": "şu an listende ne var",
+"intent": "unknown"
+},
+{
+"id": "test-0178",
+"text": "takvimindeki tanışma toplantısı",
+"intent": "unknown"
+},
+{
+"id": "test-0179",
+"text": "boston'a tren bileti al",
+"intent": "unknown"
+},
+{
+"id": "test-0180",
+"text": "eve teslim yapıyorlar mı",
+"intent": "unknown"
+},
+{
+"id": "test-0181",
+"text": "hulk hogan ne kadar uzun",
+"intent": "unknown"
+},
+{
+"id": "test-0182",
+"text": "kızlarımın doğum günü için bir hatırlatma ayarla",
+"intent": "unknown"
+},
+{
+"id": "test-0183",
+"text": "hey olly bana bir kremalı kahve yapar mısın",
+"intent": "unknown"
+},
+{
+"id": "test-0184",
+"text": "çoğu ünlü nerede takılıyor",
+"intent": "unknown"
+},
+{
+"id": "test-0185",
+"text": "bana şu anki müziğin adını söyle",
+"intent": "unknown"
+},
+{
+"id": "test-0186",
+"text": "lütfen parti için alınacakların listesini ekle",
+"intent": "unknown"
+},
+{
+"id": "test-0187",
+"text": "bana fox t. v.'den popüler haberleri ver",
+"intent": "unknown"
+},
+{
+"id": "test-0188",
+"text": "salınım yapmayı hecele ve tanımla",
+"intent": "unknown"
+},
+{
+"id": "test-0189",
+"text": "favori şarkıları aç",
+"intent": "unknown"
+},
+{
+"id": "test-0190",
+"text": "mevcut müziğin sesini yükselt",
+"intent": "unknown"
+},
+{
+"id": "test-0191",
+"text": "alarmımı sabah yediye kur",
+"intent": "unknown"
+},
+{
+"id": "test-0192",
+"text": "new jersey'de hava nasıl",
+"intent": "unknown"
+},
+{
+"id": "test-0193",
+"text": "fişi çek",
+"intent": "unknown"
+},
+{
+"id": "test-0194",
+"text": "benimle bir oyun oyna",
+"intent": "unknown"
+},
+{
+"id": "test-0195",
+"text": "hangi alarmları kurdum",
+"intent": "unknown"
+},
+{
+"id": "test-0196",
+"text": "spor haberleri için saatlik bildirim ver",
+"intent": "unknown"
+},
+{
+"id": "test-0197",
+"text": "puslu kıtalar atlasını kaldığı yerden devam ettir",
+"intent": "unknown"
+},
+{
+"id": "test-0198",
+"text": "hatırlatıcılar hakkında hangi bilgilere sahibim",
+"intent": "unknown"
+},
+{
+"id": "test-0199",
+"text": "başlangıç ​​meridyeni nerededir",
+"intent": "unknown"
+},
+{
+"id": "test-0200",
+"text": "şehri gezen bir sonraki tren buradan ne zaman kalkıyor",
+"intent": "unknown"
+},
+{
+"id": "test-0201",
+"text": "lütfen zaman dilimini türkiye olarak değiştir",
+"intent": "unknown"
+},
+{
+"id": "test-0202",
+"text": "araba lastiklerimi yakın zamanda kar lastiklerine çevirmeli miyim",
+"intent": "unknown"
+},
+{
+"id": "test-0203",
+"text": "lütfen hoparlörün sesini kıs",
+"intent": "unknown"
+},
+{
+"id": "test-0204",
+"text": "bana kasırga hakkında her şeyi anlat",
+"intent": "unknown"
+},
+{
+"id": "test-0205",
+"text": "bana bu akşam sekizde kuru temizlemeden kıyafetlerimi almayı hatırlat",
+"intent": "unknown"
+},
+{
+"id": "test-0206",
+"text": "mevcut saati değiştir",
+"intent": "unknown"
+},
+{
+"id": "test-0207",
+"text": "etkinlikleri takvimden sil",
+"intent": "unknown"
+},
+{
+"id": "test-0208",
+"text": "turkcell hisse fiyatı ne kadar",
+"intent": "unknown"
+},
+{
+"id": "test-0209",
+"text": "yaz dostum",
+"intent": "unknown"
+},
+{
+"id": "test-0210",
+"text": "bugün saat dört ten beri gelen email var mı hiç",
+"intent": "unknown"
+},
+{
+"id": "test-0211",
+"text": "ortalama bir ev ne kadardır",
+"intent": "unknown"
+},
+{
+"id": "test-0212",
+"text": "netaş güncel hisse senedi oranı",
+"intent": "unknown"
+},
+{
+"id": "test-0213",
+"text": "lütfen beni saat konusunda uyar",
+"intent": "unknown"
+},
+{
+"id": "test-0214",
+"text": "eylemlerin sonuçları",
+"intent": "unknown"
+},
+{
+"id": "test-0215",
+"text": "bugün gelen kutumda hiç yeni eposta var mı",
+"intent": "unknown"
+},
+{
+"id": "test-0216",
+"text": "elektriği kapat lütfen",
+"intent": "unknown"
+},
+{
+"id": "test-0217",
+"text": "ışıkları daha düşük ayarlara ayarla lütfen",
+"intent": "unknown"
+},
+{
+"id": "test-0218",
+"text": "bin dokuz yüz doksan ile iki bin yılları arasında yayınlanmış tüm müzik parçalarını çal",
+"intent": "unknown"
+}
+]

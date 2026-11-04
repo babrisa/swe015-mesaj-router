@@ -1,0 +1,2 @@
+Apple M5, macOS-26.6.2-arm64-arm-64bit
+Sadece CPU, 1 is parcacigi, tek mesaj, tokenizer dahil, normalize haric. Test: 218 mesaj.
