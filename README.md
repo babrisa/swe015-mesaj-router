@@ -14,7 +14,7 @@ Python 3.12 gerekir. Tek komut:
 
 Komut sanal ortamı kurar, paketleri yükler, model yoksa eğitir ve uygulamayı http://127.0.0.1:7860 adresinde açar. İlk çalıştırmada BERTurk indirilir ve eğitim yapılır.
 
-Ağırlıklar repoda yok. `./run.sh` onları yeniden üretir. Hazır ağırlıklar: [HF LINK]
+Ağırlıklar repoda yok. `./run.sh` onları yeniden üretir. Hazır ağırlıklar: https://huggingface.co/BarisYildiz/swe015-mesaj-router
 
 Testler için:
 
