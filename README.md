@@ -6,15 +6,28 @@ SWE015 Use Case 2. Ödev alan ve dil değişikliğine izin veriyor ("You may cha
 
 ## Kurulum ve çalıştırma
 
-Python 3.12 gerekir. Tek komut:
+Python 3.12 gerekir. Uygulama CPU üzerinde çalışır, GPU gerekmez.
+
+**macOS ve Linux** (tek komut):
 
 ```bash
 ./run.sh
 ```
 
-Komut sanal ortamı kurar, paketleri yükler, model yoksa eğitir ve uygulamayı http://127.0.0.1:7860 adresinde açar. İlk çalıştırmada BERTurk indirilir ve eğitim yapılır.
+**Windows** (PowerShell):
 
-Ağırlıklar repoda yok. `./run.sh` onları yeniden üretir. Hazır ağırlıklar: https://huggingface.co/BarisYildiz/swe015-mesaj-router
+```powershell
+py -3.12 -m venv .venv
+.venv\Scripts\pip install -r requirements.txt
+.venv\Scripts\hf download BarisYildiz/swe015-mesaj-router --local-dir models
+.venv\Scripts\python app.py
+```
+
+Uygulama http://127.0.0.1:7860 adresinde açılır.
+
+Ağırlıklar repoda yok, Hugging Face'ten indirilir (yaklaşık 830 MB): https://huggingface.co/BarisYildiz/swe015-mesaj-router
+
+Modelleri yeniden eğitmek için `python src/train.py`, ölçmek için `python src/evaluate.py` çalıştırılır. Eğitim CPU'da uzun sürer.
 
 Testler için:
 

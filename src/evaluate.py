@@ -49,7 +49,9 @@ if __name__ == "__main__":
                      f"{gecikme_olc(tahmin, metinler):.2f}", CALISTIRMA]
             yazici.writerow(satir)
             print(satir)
-    islemci = subprocess.run(["sysctl", "-n", "machdep.cpu.brand_string"], capture_output=True, text=True).stdout.strip()
+    mac = platform.system() == "Darwin"
+    komut = ["sysctl", "-n", "machdep.cpu.brand_string"]
+    islemci = subprocess.run(komut, capture_output=True, text=True).stdout.strip() if mac else platform.processor()
     with open("reports/hardware.txt", "w") as dosya:
         dosya.write(f"{islemci}, {platform.platform()}\n")
         dosya.write(f"Sadece CPU, 1 is parcacigi, tek mesaj, tokenizer dahil, normalize haric. Test: {len(etiketler)} mesaj.\n")
