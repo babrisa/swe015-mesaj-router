@@ -14,6 +14,8 @@ Python 3.12 gerekir. Uygulama CPU üzerinde çalışır, GPU gerekmez.
 ./run.sh
 ```
 
+macOS'ta Finder'dan `Baslat.command` dosyasına çift tıklamak da aynı işi yapar ve uygulama hazır olunca tarayıcıyı açar. İlk açılışta macOS uyarı verirse dosyaya sağ tıklayıp "Aç" seçilir.
+
 **Windows** (PowerShell):
 
 ```powershell
